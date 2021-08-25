@@ -2,12 +2,8 @@ Forked from [https://github.com/GeoffZhu/vue-xlsx-table](https://github.com/Geof
 
 # vue-xlsx-table
 
-> Not need upload, view xlsx or xls file in your browser, Supported by [js-xlsx](https://github.com/SheetJS/js-xlsx).
-> [Live Demo](http://geoffzhu.cn/vue-xlsx-table/)
+> No need to upload, view xlsx or xls file directly in your browser, Supported by [js-xlsx](https://github.com/SheetJS/js-xlsx).
 
-[![npm version](https://img.shields.io/npm/v/vue-xlsx-table.svg)](https://www.npmjs.com/package/vue-xlsx-table)
-
-[中文文档](https://github.com/GeoffZhu/vue-xlsx-table/blob/master/README.zh.md)
 
 ## Requirements
 - vue: ^2.0.0
