@@ -12,7 +12,7 @@ Forked from [https://github.com/GeoffZhu/vue-xlsx-table](https://github.com/Geof
 #### install
 
 ``` sh
- npm install vue-xlsx-table --save
+ npm install @deevotechvn/vue-xlsx-table --save
 ```
 
 #### main.js
